@@ -1,18 +1,38 @@
 # Timestamp drift incident checklist
 
-Public resource repository for MatrixTrak distribution.
+Production-focused companion repository for a MatrixTrak resource.
 
-## Canonical Links
-- Resource page: https://matrixtrak.com/resources/timestamp-drift-incident-checklist
+## What This Repository Is
+
+This repository is the public distribution surface for the linked MatrixTrak resource.
+It is designed for quick implementation support, community sharing, and stable versioned references.
+
+## Canonical MatrixTrak Links
+
+- Resource page (canonical): https://matrixtrak.com/resources/timestamp-drift-incident-checklist
 - Primary blog posts: none mapped yet
 
 ## Resource Summary
+
 When signature errors appear in production: how to confirm clock drift, stop harmful retries, and stabilize time sync.
 
-## Post Mapping
+## Who This Is For
 
-Secondary (resource relatedPosts):
+- Engineers handling production incidents and reliability gaps
+- Teams implementing or validating practical safeguards
+- Readers coming from community channels who need canonical references
+
+## Included Mapping
+
+
+Secondary mapping (resource relatedPosts):
 - timestamp-drift-signature-errors - Signature invalid but bot was working: why clock drift breaks auth suddenly
+
+## Usage Notes
+
+- Treat MatrixTrak pages as the canonical long-form guidance.
+- Use this repo for practical implementation support and sharing.
+- For updates, always check the canonical resource page first.
 
 ## Attribution
 Use MatrixTrak canonical links above for the full context and updates.
